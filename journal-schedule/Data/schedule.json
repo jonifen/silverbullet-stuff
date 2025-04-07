@@ -1,0 +1,147 @@
+{
+  "0": {
+    "name": "Sunday",
+    "meetings": []
+  },
+  "1": {
+    "name": "Monday",
+    "meetings": [
+      {
+        "name": "Daily Standup",
+        "start": "09:30",
+        "end": "09:45",
+        "location": "Teams",
+        "participants": []
+      },
+	  {
+        "name": "Weekly Planning",
+        "start": "10:00",
+        "end": "10:25",
+        "location": "Teams",
+        "participants": ["Tom", "Me"]
+      },
+      {
+        "name": "Lunch break",
+        "start": "12:00",
+        "end": "13:00",
+        "location": "Outside",
+        "participants": []
+      }
+    ]
+  },
+  "2": {
+    "name": "Tuesday",
+    "meetings": [
+      {
+        "name": "Daily Standup",
+        "start": "09:30",
+        "end": "09:45",
+        "location": "Teams",
+        "participants": []
+      },
+      {
+        "name": "Lunch break",
+        "start": "12:00",
+        "end": "13:00",
+        "location": "Outside",
+        "participants": []
+      },
+      {
+        "name": "Discussion about some interesting systems",
+        "start": "14:00",
+        "end": "14:50",
+        "location": "Teams",
+        "participants": []
+      },
+      {
+        "name": "Sprint Review and Retrospective",
+        "start": "15:00",
+        "end": "15:55",
+        "location": "Teams",
+        "participants": []
+      }
+    ]
+  },
+  "3": {
+    "name": "Wednesday",
+    "meetings": [
+      {
+        "name": "Daily Standup",
+        "start": "09:30",
+        "end": "09:45",
+        "location": "Teams",
+        "participants": []
+      },
+	  {
+        "name": "Sprint Planning",
+        "start": "09:45",
+        "end": "10:15",
+        "location": "Teams",
+        "participants": []
+      },
+      {
+        "name": "Lunch break",
+        "start": "12:00",
+        "end": "13:00",
+        "location": "Outside",
+        "participants": []
+      },
+      {
+        "name": "Jeff 1-2-1",
+        "start": "13:30",
+        "end": "13:55",
+        "location": "Teams",
+        "participants": ["Jeff", "Me"]
+      }
+    ]
+  },
+  "4": {
+    "name": "Thursday",
+    "meetings": [
+      {
+        "name": "Daily Standup",
+        "start": "09:30",
+        "end": "09:45",
+        "location": "Teams",
+        "participants": []
+      },
+      {
+        "name": "Philip 1-2-1",
+        "start": "10:30",
+        "end": "10:55",
+        "location": "Teams",
+        "participants": ["Philip", "Me"]
+      },
+      {
+        "name": "Lunch break",
+        "start": "12:00",
+        "end": "13:00",
+        "location": "Outside",
+        "participants": []
+      }
+    ]
+  },
+  "5": {
+    "name": "Friday",
+    "meetings": [
+      {
+        "name": "Daily Standup",
+        "start": "09:30",
+        "end": "09:45",
+        "location": "Teams",
+        "participants": []
+      },
+      {
+        "name": "Lunch break",
+        "start": "12:00",
+        "end": "13:00",
+        "location": "Outside",
+        "participants": []
+      }
+    ]
+  },
+  "6": {
+    "name": "Saturday",
+    "meetings": []
+  }
+}
